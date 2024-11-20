@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">PruebaAPI</string>
+    <string name="hint_latitud">Latitud</string>
+    <string name="hint_longitud">Longitud</string>
+    <string name="web_client_id">335092612691-g9qlk7vujdr4fnh6afa0v6rvosuo2io1.apps.googleusercontent.com</string>
+</resources>

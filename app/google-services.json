@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "335092612691",
+    "project_id": "pruebaapi-dadfa",
+    "storage_bucket": "pruebaapi-dadfa.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:335092612691:android:a46ca094915eae36edd0a6",
+        "android_client_info": {
+          "package_name": "com.proyecto.pruebaapi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "335092612691-g9qlk7vujdr4fnh6afa0v6rvosuo2io1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.proyecto.pruebaapi",
+            "certificate_hash": "132ea85cb90d2812fb26e16ff7f4d27e08f85f47"
+          }
+        },
+        {
+          "client_id": "335092612691-993d5h8hno0spgvfun5cbm0o8hofivuk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDPR2tEned09-Je6HQpGeSEyvFV-ADo9-k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "335092612691-993d5h8hno0spgvfun5cbm0o8hofivuk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
